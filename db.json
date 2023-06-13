@@ -1,0 +1,37 @@
+{
+  "name": "Mark Jackson",
+  "address1": "100 Book BLV",
+  "address2": "Bookings, IN 46788",
+  "phone": "317-493-0987",
+  "company": "The Book Store",
+  "order_date": "11",
+  "invoice_number": "203",
+  "order_amount": "$111",
+  "order_total": "$1500",
+  "order_amount_paid": "$4.9",
+  "order_due_balance": "$22",
+  "notes": "This your invoice you have 30 days for buying your selaa",
+  "table_Of_items": [
+    {
+      "id": "0",
+      "item_name": "Macbook 2022",
+      "dscription": "state new PC",
+      "Quantity": "1",
+      "price": "1000$"
+    },
+    {
+      "id": "1",
+      "item_name": "Iphon 13",
+      "dscription": "state Old and screen ",
+      "Quantity": "3",
+      "price": "400$"
+    },
+    {
+      "id": "2",
+      "item_name": "Chargeur Appel",
+      "dscription": "State New",
+      "Quantity": "5",
+      "price": "40$"
+    }
+  ]
+}
